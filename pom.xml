@@ -152,7 +152,7 @@
     <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
-      <url>http://10.62.3.102/:9001/repository/maven-releases/</url>
+      <url>http://10.62.3.102:9001/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
